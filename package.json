@@ -1,0 +1,7 @@
+{
+  "name": "start",
+  "dependencies": {
+    "express": "~4.13.3",
+    "body-parser": "~1.13.3"
+  }
+}
